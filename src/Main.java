@@ -101,6 +101,7 @@ public class Main {
         while (pastYears < possibleYear){
             System.out.println(pastYears);
             pastYears = pastYears + 79;
+
         }
     }
 }
